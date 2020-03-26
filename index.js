@@ -14,5 +14,5 @@ const facts = [
 ];
 
 function johnLennonFacts(arg) {
-  while()
+  while(facts < facts)
 }
