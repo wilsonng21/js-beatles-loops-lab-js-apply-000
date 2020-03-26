@@ -16,7 +16,6 @@ const facts = [
 function johnLennonFacts(facts) {
   var array = []
   while(i < facts.length) {
-    var i = 0
     array.push(facts[i] + '!!!')
     i++
   }
