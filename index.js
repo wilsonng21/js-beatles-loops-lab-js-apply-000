@@ -34,7 +34,7 @@ function iLoveTheBeatles(num) {
   }
 }
 // do while loops make sure the code runs at least once before checking the condition.
-//It runs 8 times when passing the parameter 7 because the num starts at 0.
+
 
 
 
