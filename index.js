@@ -25,6 +25,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   var array = []
+  var num = 0
   do {
     array.push("I love the Beatles!")
     num++
@@ -33,7 +34,8 @@ function iLoveTheBeatles(num) {
     return array
   }
 }
-
+// do while loops make sure the code runs at least once before checking the condition.
+//It runs 8 times when passing the parameter 7 because the num starts at 0.
 
 
 
