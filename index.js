@@ -34,7 +34,7 @@ function iLoveTheBeatles(num) {
   }
 }
 // do while loops make sure the code runs at least once before checking the condition.
-
+//if num = 0, it will run 8 times. 
 
 
 
